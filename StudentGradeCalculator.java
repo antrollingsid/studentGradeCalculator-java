@@ -3,7 +3,7 @@ package StudentGradeCalculator;
 import java.util.Scanner;
 
 /**
- * @author sid
+ * @author antrollingsid
  */
 public class StudentGradeCalculator {
 
