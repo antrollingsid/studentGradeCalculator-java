@@ -1,6 +1,5 @@
 
 package StudentGradeCalculator;
-
 import java.util.Scanner;
 
 /**
